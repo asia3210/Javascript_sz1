@@ -1,0 +1,10 @@
+{
+  "name": "training_setup_test",
+  "devDependencies": {
+    "benchmark": "2.1.4",
+    "eslint": "4.19.1",
+    "mocha": "5.2.0",
+    "ramda": "0.25.0",
+    "axios": "0.18.0"
+  }
+}
