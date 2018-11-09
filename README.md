@@ -5,7 +5,9 @@
 ## Test setupu
 
 ```git clone https://kwasniew@bitbucket.org/kwasniew/training_setup_test.git```
+
 ```cd training_setup_test```
+
 ```npm i```
 
 Proszę sprawdzić czy zainstalowały się biblioteki w katalogu node_modules
